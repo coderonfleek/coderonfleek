@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Fikayo Adepoju, a LinkedIn Learning (Lynda.com) author, Full-stack developer, technical writer, and tech content creator proficient in Web and Mobile technologies and DevOps with over 10 years of experience developing scalable distributed applications. With over 40 articles written for Twilio, CircleCI, Auth0, and The New Stack blogs and also on my personal medium page, I love to share my knowledge to as many developers as would benefit from it. I have given various talks at Google developer groups and taught at different coding Boot Camps.</h1>
+Hi 👋, I'm Fikayo Adepoju, a LinkedIn Learning (Lynda.com) author, Full-stack developer, technical writer, and tech content creator proficient in Web and Mobile technologies and DevOps with over 10 years of experience developing scalable distributed applications. With over 40 articles written for Twilio, CircleCI, Auth0, and The New Stack blogs and also on my personal medium page, I love to share my knowledge to as many developers as would benefit from it. I have given various talks at Google developer groups and taught at different coding Boot Camps.
 <h3 align="center">I like to hack on cool web stuff</h3>
 
 <p align="left"> <a href="https://twitter.com/coderonfleek" target="blank"><img src="https://img.shields.io/twitter/follow/coderonfleek?logo=twitter&style=for-the-badge" alt="coderonfleek" /></a> </p>
-
-- 🔭 I’m currently working on [A Zoom clone with WebRTC technology](https://github.com/coderonfleek/twilio-electron-video)
-
-- 🌱 I’m currently learning **DevOps, Microservices, Automation**
-
-- 👯 I’m looking to collaborate on **Interesting Ionic Projects on the Awesome-Ionic repository**
 
 - 📝 I regularly write articles, find them here [https://github.com/coderonfleek/articles-by-fikayo](https://github.com/coderonfleek/articles-by-fikayo)
 
 - 💬 Ask me about **Web-based technologies and Node.js**
 
 - 📫 How to reach me **DM on Twitter @coderonfleek**
+
+- 🔭 I’m currently working on [A Zoom clone with WebRTC technology](https://github.com/coderonfleek/twilio-electron-video)
+
+- 🌱 I’m currently learning **DevOps, Microservices, Automation**
+
+- 👯 I’m looking to collaborate on **Interesting Ionic Projects on the Awesome-Ionic repository**
 
 - 📄 Know about my experiences [coderonfleek.com](coderonfleek.com)
 
